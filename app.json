@@ -1,0 +1,25 @@
+{ "name": "formalexchange",
+  "displayName": "formalexchange",
+  "entryPoint": "./index.ios.js",
+  "expo": {
+    "name": "formalexchange",
+    "description": "An empty new project",
+    "slug": "formalexchange",
+    "privacy": "public",
+    "sdkVersion": "19.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./assets/icons/app-icon.png",
+    "loading": {
+      "icon": "./assets/icons/loading-icon.png",
+      "hideExponentText": false
+    },
+    "packagerOpts": {
+      "assetExts": ["ttf", "mp4"]
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
