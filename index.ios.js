@@ -144,7 +144,7 @@ class Browse extends Component {
                         <Text>Menu</Text>
                     </TouchableOpacity>
                 </View>
-                <View style={styles.flexCenter}><Text style={{fontFamily: 'ralewayBold'}}>BROWSE</Text></View>
+                <View style={styles.flexCenter}><Text>BROWSE</Text></View>
                 <View style={styles.flexRight}><Text>account</Text></View>
             </View>
             <ScrollView contentContainerStyle={styles.contentContainer} removeClippedSubviews={false}>
